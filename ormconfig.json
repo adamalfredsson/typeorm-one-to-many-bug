@@ -4,7 +4,7 @@
   "port": 5432,
   "username": "postgres",
   "password": "postgres",
-  "database": "typeorm-one-to-many-insert",
+  "database": "typeorm-one-to-many-bug",
   "synchronize": true,
   "logging": false,
   "entities": ["src/entity/**/*.ts"],
